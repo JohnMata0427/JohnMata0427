@@ -57,6 +57,6 @@
 
 <h1 align="center">🌌 Statistics</h1>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="155rem" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="155rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
 </div>
