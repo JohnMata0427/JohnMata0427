@@ -5,10 +5,10 @@
 
 <h1 align="center">🪐 Skills:</h1>
 
-<h2>Languages</h2>
+<!--<h2>Languages</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,java,php,javascript,typescript" />
-</p>
+</p>-->
 
 <h2>Frontend</h2>
 <p align="center">
@@ -17,7 +17,7 @@
 
 <h2>Backend</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,npm" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,java,php,nodejs,express,firebase,npm" />
 </p>
 
 <h2>Mobile</h2>
@@ -45,7 +45,7 @@
 
 <h2>DevOps</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,bash,gcp,azure"/>
+    <img src="https://skillicons.dev/icons?i=aws,bash,github,gcp,azure"/>
 </p>
 
 <h2>Workspace</h2>
