@@ -1,8 +1,15 @@
 <h1 align="center">💫 About Me:</h1>
 <p align="center">Soy un <strong>Desarollador Full-Stack</strong> con una curiosidad incesante por cómo funcionan las cosas. Me encanta el reto de resolver problemas complejos mezclando lógica y creatividad. Me apasiona el continuo aprendizaje y estoy constantemente explorando nuevas tecnología para aportar soluciones innovadoras.</p>
 
+<div align="center">
+    
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhon.mata04) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-mata-a80392278)
+
+</div>
+
 <!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/3426cfab-0046-484f-bc40-0ebd3146d28f" alt="Banner" style="width: 100%" />-->
 <img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />
+
 
 <h1 align="center">🪐 Skills:</h1>
 
