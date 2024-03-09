@@ -19,3 +19,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,bash" />
 </p>
+
+<h2>Mobile</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
+</p>
