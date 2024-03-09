@@ -68,3 +68,18 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
 </p>
+
+<h1 align="center">🌌 Statistics</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmata0427&theme=discord-old-blurple" alt="johnmata0427" height="125rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="125rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="125rem" />
+</div>
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">🚀 Activity Graph:</h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=johnmata0427&theme=github"/>
