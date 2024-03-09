@@ -3,7 +3,10 @@
 
 <div align="center">
     
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhon.mata04) [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-mata-a80392278)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhon.mata04) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-mata-a80392278) 
+[![Discord](https://img.shields.io/badge/Discord-525dea.svg?logo=discord&logoColor=white)](https://discordapp.com/users/477195016562016256)
 
 </div>
 
