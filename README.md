@@ -12,7 +12,7 @@
 
 <h2>Frontend</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwindcss,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwindcss,react,nextjs" />
 </p>
 
 <h2>Backend</h2>
