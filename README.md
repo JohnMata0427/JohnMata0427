@@ -12,21 +12,25 @@
 </p>-->
 
 <h3 align="center">Frontend</h3>
+<p align="center">Lenguajes de marcado y frameworks</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,tailwindcss,react,nextjs,vercel" />
 </p>
 
 <h3 align="center">Backend</h3>
+<p align="center">Lenguajes de programacion, modulos y servicios</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,java,php,nodejs,express,firebase,npm" />
 </p>
 
 <h3 align="center">Mobile</h3>
+<p align="center">Desarollo de aplicaciones multiplataforma</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
 </p>
 
 <h3 align="center">Databases</h3>
+<p align="center">Manejo de Bases SQL y NoSQL</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="mssql"/>
@@ -35,6 +39,7 @@
 </p>
 
 <h3 align="center">Data Science</h3>
+<p align="center">Librerias en Python</p>
 <p align="center">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
@@ -46,11 +51,13 @@
 </p>
 
 <h3 align="center">DevOps</h3>
+<p align="center">Automatización, cloud y CI/CD</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,bash,github,gcp,azure"/>
 </p>
 
 <h3 align="center">Workspace</h3>
+<p align="center">Herramientas de trabajo</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
 </p>
