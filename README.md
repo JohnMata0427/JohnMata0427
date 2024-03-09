@@ -17,7 +17,7 @@
 
 <h2>Backend</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,bash,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,npm" />
 </p>
 
 <h2>Mobile</h2>
@@ -25,15 +25,27 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
 </p>
 
-<h2>Database</h2>
+<h2>Databases</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,elasticsearch,mongodb,sqlite" />
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="mssql"/>
 </p>
 
 <h2>Data Science</h2>
 <p align="center">
-    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d"/>
-    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e"/>
-    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/ec38af4e-1bd5-4e96-b0e9-39d225029ea9"/>
-    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8f154783-1162-4864-ad9a-208b10722669"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/ec38af4e-1bd5-4e96-b0e9-39d225029ea9" alt="pandas"/>
+        <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/22fe7298-fd4d-4426-bc09-e1a2f2cc0e39" alt="tableau"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4727c8b1-d804-43d8-928a-7652596dcfdd" alt="powerbi"/>
+</p>
+
+<h2>DevOps</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,bash,gcp,azure"/>
+</p>
+
+<h2>Workspace</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
 </p>
