@@ -14,3 +14,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwindcss,react" />
 </p>
+
+<h2>Backend</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,bash" />
+</p>
