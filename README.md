@@ -7,11 +7,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-mata-a80392278) 
 [![Discord](https://img.shields.io/badge/Discord-525dea.svg?logo=discord&logoColor=white)](https://discordapp.com/users/477195016562016256)
-
+    
 </div>
 
-<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/3426cfab-0046-484f-bc40-0ebd3146d28f" alt="Banner" style="width: 100%" />
-<!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />-->
+<!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/3426cfab-0046-484f-bc40-0ebd3146d28f" alt="Banner" style="width: 100%" />-->
+<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />
 
 
 <h1 align="center">🪐 Skills:</h1>
@@ -57,9 +57,6 @@
 
 <h1 align="center">🌌 Statistics</h1>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="150rem" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="150rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="155rem" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="155rem" />
 </div>
-
-<h1 align="center">🚀 Activity Graph:</h1>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmata0427&theme=github"/>
