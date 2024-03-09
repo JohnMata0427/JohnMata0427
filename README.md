@@ -8,4 +8,9 @@
 <h2>Languages</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,java,php,javascript,typescript" />
-</p
+</p>
+
+<h2>Frontend</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwindcss,react" />
+</p>
