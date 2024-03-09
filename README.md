@@ -27,8 +27,10 @@
 
 <h2>Databases</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,elasticsearch,mongodb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="mssql"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/352651e3-65c3-467a-b51d-224f8e9f52ec" alt="mariadb"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch,mongodb,sqlite" />
 </p>
 
 <h2>Data Science</h2>
