@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="center">Data Science</h3>
-<p align="center">Librerias en Python</p>
+<p align="center">Recolección, análisis y visualización de datos</p>
 <p align="center">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
