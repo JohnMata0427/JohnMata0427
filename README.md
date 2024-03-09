@@ -17,10 +17,27 @@
 
 <h2>Backend</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,bash" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,bash,npm" />
 </p>
 
 <h2>Mobile</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
+</p>
+
+<h2>Database</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
+</p>
+
+<h2>Data Science</h2>
+<p align="center">
+    <img src="![image](https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d)
+"/>
+    <img src="![image](https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e)
+"/>
+    <img src="![image](https://github.com/JohnMata0427/JohnMata0427/assets/150484680/ec38af4e-1bd5-4e96-b0e9-39d225029ea9)
+"/>
+    <img src="![image](https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8f154783-1162-4864-ad9a-208b10722669)
+"/>
 </p>
