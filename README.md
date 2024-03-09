@@ -11,22 +11,22 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,java,php,javascript,typescript" />
 </p>-->
 
-<h2>Frontend</h2>
+<h3 align="center">Frontend</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,tailwindcss,react,nextjs,vercel" />
 </p>
 
-<h2>Backend</h2>
+<h3 align="center">Backend</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,java,php,nodejs,express,firebase,npm" />
 </p>
 
-<h2>Mobile</h2>
+<h3 align="center">Mobile</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
 </p>
 
-<h2>Databases</h2>
+<h3 align="center">Databases</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="mssql"/>
@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=elasticsearch,mongodb,sqlite" />
 </p>
 
-<h2>Data Science</h2>
+<h3 align="center">Data Science</h3>
 <p align="center">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
@@ -45,12 +45,12 @@
     <!--<img height="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8c8da190-0460-4c58-91ea-4fd412c8bbba" alt="bs4"/>-->
 </p>
 
-<h2>DevOps</h2>
+<h3 align="center">DevOps</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,bash,github,gcp,azure"/>
 </p>
 
-<h2>Workspace</h2>
+<h3 align="center">Workspace</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
 </p>
