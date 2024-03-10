@@ -55,6 +55,7 @@
 <img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
 
 <h1 align="center">🌌 Statistics</h1>
+<p align="center">Mi estadisticas públicas de GitHub</p>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
