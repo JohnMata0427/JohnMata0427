@@ -10,8 +10,8 @@
     
 </div>
 
-<!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/e5c6af45-1ffb-4c42-b49d-cd034794de48" alt="Banner" style="width: 100%" />-->
 <img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />
+<!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/54817e91-0ff2-4c25-b089-354166a9f2c3" alt="Banner" style="width: 100%"> -->
 
 <h1 align="center">🪐 Skills:</h1>
 
