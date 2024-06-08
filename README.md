@@ -16,15 +16,15 @@
 <h1 align="center">🪐 Skills:</h1>
 
 <h3>Frontend</h3>
-<p>Lenguajes de marcado y frameworks</p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,tailwindcss,react,nextjs,vercel" />
+<p>Maquetado y frameworks</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,tailwindcss,react,nextjs,angular" />
 
 <h3>Backend</h3>
-<p>Lenguajes de programacion, modulos y servicios</p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,java,php,nodejs,express,firebase,npm" />
+<p>Lenguajes de programación, gestores de paquetes y frameworks</p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,php,python,java,spring,nodejs,npm,express,pnpm,firebase" />
 
 <h3>Databases</h3>
-<p>Manejo de Bases SQL y NoSQL</p>
+<p>Manejo de bases de datos SQL y NoSQL</p>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="mssql"/>
@@ -33,21 +33,24 @@
 </div>
 
 <h3>Data Science</h3>
-<p>Recolección, análisis y visualización de datos</p>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/ec38af4e-1bd5-4e96-b0e9-39d225029ea9" alt="pandas"/>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/7b7dc9d8-d18d-4282-9fe4-2678ab9921a8" alt="plotly"/>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/22fe7298-fd4d-4426-bc09-e1a2f2cc0e39" alt="tableau"/>
-<img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4727c8b1-d804-43d8-928a-7652596dcfdd" alt="powerbi"/>
-<!--<img height="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8c8da190-0460-4c58-91ea-4fd412c8bbba" alt="bs4"/>-->
+<p>Recolección, análisis y visualización de datos e inteligencia artificial</p>
+<div align="left">
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/9ff828e2-acb4-4ae4-97b0-87dd589a201e" alt="numpy"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/ec38af4e-1bd5-4e96-b0e9-39d225029ea9" alt="pandas"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/7b7dc9d8-d18d-4282-9fe4-2678ab9921a8" alt="plotly"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/22fe7298-fd4d-4426-bc09-e1a2f2cc0e39" alt="tableau"/>
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4727c8b1-d804-43d8-928a-7652596dcfdd" alt="powerbi"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn"/>
+    <!--<img height="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8c8da190-0460-4c58-91ea-4fd412c8bbba" alt="bs4"/>-->
+<div align="left">
 
 <h3>DevOps</h3>
 <p>Automatización, cloud y CI/CD</p>
-<img src="https://skillicons.dev/icons?i=aws,bash,github,gcp,azure"/>
+<img src="https://skillicons.dev/icons?i=aws,bash,github,vercel,gcp,azure,docker"/>
 
 <h3>Mobile</h3>
-<p>Desarollo de aplicaciones multiplataforma</p>
+<p>Desarollo aplicaciones multiplataforma o android</p>
 <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
 
 <h3>Workspace</h3>
