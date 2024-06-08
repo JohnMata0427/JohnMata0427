@@ -2,12 +2,27 @@
 <p align="center">Soy un <strong>Desarollador Full-Stack</strong> con una curiosidad incesante por cómo funcionan las cosas. Me encanta el reto de resolver problemas complejos mezclando lógica y creatividad. Me apasiona el continuo aprendizaje y estoy constantemente explorando nuevas tecnología para aportar soluciones innovadoras.</p>
 
 <div align="center">
-    
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhon.mata04) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon0427/) 
 [![Discord](https://img.shields.io/badge/Discord-525dea.svg?logo=discord&logoColor=white)](https://discordapp.com/users/477195016562016256)
     
+</div>
+
+<div align="center">
+    <a target="_blank" href="https://facebook.com/jhon.mata04">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
+    </a>
+    <a target="_blank" style="text-decoration:none" href="https://instagram.com/jhonmata0427">
+        <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white">
+    </a>
+    <a target="_blank" style="text-decoration:none" href="https://www.linkedin.com/in/jhon0427/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a>
+    <a target="_blank" style="text-decoration:none" href="https://discordapp.com/users/477195016562016256">
+        <img src="https://img.shields.io/badge/Discord-525dea.svg?logo=discord&logoColor=white">
+    </a>
 </div>
 
 <img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />
