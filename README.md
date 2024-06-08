@@ -10,21 +10,6 @@
     
 </div>
 
-<div align="center">
-    <a target="_blank" href="https://facebook.com/jhon.mata04">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
-    </a>
-    <a target="_blank" style="text-decoration:none" href="https://instagram.com/jhonmata0427">
-        <img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=Instagram&logoColor=white">
-    </a>
-    <a target="_blank" style="text-decoration:none" href="https://www.linkedin.com/in/jhon0427/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-    </a>
-    <a target="_blank" style="text-decoration:none" href="https://discordapp.com/users/477195016562016256">
-        <img src="https://img.shields.io/badge/Discord-525dea.svg?logo=discord&logoColor=white">
-    </a>
-</div>
-
 <img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner" style="width: 100%" />
 <!--<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/54817e91-0ff2-4c25-b089-354166a9f2c3" alt="Banner" style="width: 100%"> -->
 
