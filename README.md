@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=elasticsearch,mongodb,sqlite" />
 </div>
 
-<h3>Data Science</h3>
+<h3>Data Science and AI</h3>
 <p>Recolección, análisis y visualización de datos e inteligencia artificial</p>
 <div align="left">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="matplotlib"/>
