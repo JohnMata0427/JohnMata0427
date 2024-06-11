@@ -21,7 +21,7 @@
 
 <h3>Backend</h3>
 <p>Lenguajes de programación, gestores de paquetes y frameworks</p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,php,python,java,spring,nodejs,npm,express,pnpm,firebase" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,php,python,java,spring,nodejs,pnpm,npm,express,prisma" />
 
 <h3>Databases</h3>
 <p>Manejo de bases de datos SQL y NoSQL</p>
