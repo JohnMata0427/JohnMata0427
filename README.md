@@ -41,8 +41,8 @@
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/7b7dc9d8-d18d-4282-9fe4-2678ab9921a8" alt="plotly"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/22fe7298-fd4d-4426-bc09-e1a2f2cc0e39" alt="tableau"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4727c8b1-d804-43d8-928a-7652596dcfdd" alt="powerbi"/>
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn"/>
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn"/>
     <!--<img height="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/8c8da190-0460-4c58-91ea-4fd412c8bbba" alt="bs4"/>-->
 <div align="left">
 
