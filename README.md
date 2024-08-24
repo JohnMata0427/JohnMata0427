@@ -17,11 +17,11 @@
 
 <h3>Frontend</h3>
 <p>Maquetado y frameworks</p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,tailwindcss,react,nextjs,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,vite,vue,tailwindcss,react,nextjs,angular" />
 
 <h3>Backend</h3>
 <p>Lenguajes de programación, gestores de paquetes y frameworks</p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,php,python,java,spring,nodejs,pnpm,npm,express,prisma" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,c,cs,dotnet,php,python,java,spring,nodejs,express,prisma" />
 
 <h3>Databases</h3>
 <p>Manejo de bases de datos SQL y NoSQL</p>
@@ -56,7 +56,7 @@
 
 <h3>Workspace</h3>
 <p>Herramientas de trabajo</p>
-<img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,vscode,visualstudio,idea"/>
+<img src="https://skillicons.dev/icons?i=git,postman,arduino,powershell,replit,figma,pnpm,vscode,visualstudio,idea"/>
 
 <h1 align="center">🌌 Statistics</h1>
 <p align="center">Mi estadisticas públicas de GitHub</p>
