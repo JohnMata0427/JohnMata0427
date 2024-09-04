@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jhon.mata04) 
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) 
+[![Instagram](https://img.shields.io/badge/Instagram-E52765.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhonmata0427) 
 [![GitHub](https://img.shields.io/badge/GitHub-1F2328.svg?logo=GitHub&logoColor=white)](https://github.com/JohnMata0427)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon0427/) 
 [![Discord](https://img.shields.io/badge/Discord-525DEA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/477195016562016256)
