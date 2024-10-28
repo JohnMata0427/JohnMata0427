@@ -35,19 +35,7 @@
 <h3>Backend</h3>
 <p>Lenguajes de programación, gestores de paquetes y frameworks</p>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+
 </div>
 
 <h3>Databases</h3>
@@ -93,6 +81,7 @@
     <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    <img width="48px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d8c66b32f136993c066465a373f52c2c3480f112/icons/Ionic-Dark.svg" alt="Ionic" />
 </div>
 
 <h3>Workspace</h3>
