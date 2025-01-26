@@ -36,7 +36,19 @@
 <h3>Backend</h3>
 <p>Lenguajes de programación, gestores de paquetes y frameworks</p>
 <div align="left">
-
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
 </div>
 
 <h3>Databases</h3>
