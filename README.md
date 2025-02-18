@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
     <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
