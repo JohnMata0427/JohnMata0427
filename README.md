@@ -14,7 +14,7 @@
     
 </div>
 
-<img src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4a82b0c1-497d-4974-b167-38d2574fa474" alt="Banner de presentación" style="width: 100%" />
+<img src="https://github.com/user-attachments/assets/5f90f0fe-f6eb-497b-bcd8-51201588c5bc" alt="Banner de presentación" style="width: 100%" />
 
 <h1 align="center">🪐 Skills:</h1>
 
