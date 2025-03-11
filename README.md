@@ -115,7 +115,12 @@
 
 <h1 align="center">🌌 Statistics</h1>
 <p align="center">Mi estadisticas públicas de GitHub</p>
+
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmata0427&theme=discord_old_blurple" height="160rem" />
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=JohnMata0427&rank_icon=github&show_icons=true&theme=github_dark&locale=es&hide_border=true" />
+    <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnMata0427&layout=compact&langs_count=10&theme=github_dark&exclude_repo=Data-Lake-Case-Studies&locale=es&hide_border=true" alt="Languages graph"  />
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMata0427&theme=github-dark&area=true&hide_border=true" />
+
+<!-- <img src="https://raw.githubusercontent.com/JohnMata0427/JohnMata0427/output/snake.svg" alt="Snake animation" /> -->
