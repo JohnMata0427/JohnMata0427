@@ -23,11 +23,11 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
+<!--    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" /> -->
     <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+<!--    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /> -->
     <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
@@ -40,10 +40,10 @@
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+<!--    <img src="https://skillicons.dev/icons?i=c" alt="C" />
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
     <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" /> -->
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
@@ -58,13 +58,13 @@
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="Microsoft SQL Server"/>
-    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/352651e3-65c3-467a-b51d-224f8e9f52ec" alt="Maria DB"/>
-    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elastic Search"/>
+<!--    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/352651e3-65c3-467a-b51d-224f8e9f52ec" alt="Maria DB"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elastic Search"/> -->
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
 </div>
 
-<h3>Data Science and AI</h3>
+<!-- <h3>Data Science and AI</h3>
 <p>Recolección, análisis y visualización de datos e inteligencia artificial</p>
 <div align="left">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="Matplotlib"/>
@@ -75,13 +75,13 @@
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/4727c8b1-d804-43d8-928a-7652596dcfdd" alt="Power BI"/>
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
     <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
-<div align="left">
+<div align="left"> -->
 
 <h3>DevOps</h3>
 <p>Automatización, cloud y CI/CD</p>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+<!--    <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/> -->
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
     <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform"/>
@@ -103,14 +103,14 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+<!--    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> -->
     <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
-    <img src="https://skillicons.dev/icons?i=replit" alt="Replit" />
+<!--    <img src="https://skillicons.dev/icons?i=replit" alt="Replit" /> -->
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" />
+    <img src="https://skillicons.dev/icons?i=pnpm" alt="PNPM" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+<!--    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /> -->
 </div>
 
 <h1 align="center">🌌 Statistics</h1>
