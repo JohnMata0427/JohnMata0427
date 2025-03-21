@@ -1,6 +1,6 @@
 <div align="center">
     <h1>💫 About Me:</h1>
-    <p>Soy un <strong>Desarollador Full-Stack</strong> con una curiosidad incesante por cómo funcionan las cosas. Me encanta el reto de resolver problemas complejos mezclando lógica y creatividad. Me apasiona el continuo aprendizaje y estoy constantemente explorando nuevas tecnología para aportar soluciones innovadoras.</p>
+    <p>Soy un <strong>Desarollador Full-Stack</strong> con una curiosidad incesante por cómo funcionan las cosas. Me apasiona resolver problemas complejos mezclando lógica y creatividad. Como autodidacta, estoy constantemente explorando nuevas tecnologías para aportar soluciones más optimas e innovadoras.</p>
 </div>
 
 <div align="center">
