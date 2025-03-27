@@ -52,19 +52,19 @@
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
 </div>
 
-<h3>Databases</h3>
+<!-- <h3>Databases</h3>
 <p>Manejo de bases de datos SQL y NoSQL</p>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/0c2ec7d1-bdd2-4f11-8221-26ebd751cef6" alt="Microsoft SQL Server"/>
-<!--    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/352651e3-65c3-467a-b51d-224f8e9f52ec" alt="Maria DB"/>
-    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elastic Search"/> -->
+    <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/352651e3-65c3-467a-b51d-224f8e9f52ec" alt="Maria DB"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elastic Search"/>
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
 </div>
 
-<!-- <h3>Data Science and AI</h3>
+<h3>Data Science and AI</h3>
 <p>Recolección, análisis y visualización de datos e inteligencia artificial</p>
 <div align="left">
     <img width="48px" src="https://github.com/JohnMata0427/JohnMata0427/assets/150484680/efe5ed5f-bf0b-4147-a64b-d033a752230d" alt="Matplotlib"/>
