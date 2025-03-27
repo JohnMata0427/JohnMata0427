@@ -121,6 +121,6 @@
     <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnMata0427&layout=compact&langs_count=10&theme=github_dark&exclude_repo=Data-Lake-Case-Studies&locale=es&hide_border=true" alt="Languages graph"  />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMata0427&theme=github-dark&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMata0427&theme=github-dark&area=true&hide_border=true&days=50" />
 
 <!-- <img src="https://raw.githubusercontent.com/JohnMata0427/JohnMata0427/output/snake.svg" alt="Snake animation" /> -->
